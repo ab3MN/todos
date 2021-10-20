@@ -1,0 +1,16 @@
+.nav {
+  width: 600px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+.nav_item {
+  padding: 20px;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.nav_item__active {
+  font-weight: bold;
+  color: pink;
+}
